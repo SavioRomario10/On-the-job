@@ -1,18 +1,16 @@
 {
-  "name": "git-otj",
+  "name": "git-hub",
   "version": "1.0.0",
-  "description": "projeto",
+  "description": "projeto da Capgemini",
   "main": "index.js",
   "scripts": {
-    "start":"npm run lite",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lite":"lite-server"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SavioRomario10/On-the-job.git"
   },
-  "author": "Savio Romario",
+  "author": "savio romario",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SavioRomario10/On-the-job/issues"
